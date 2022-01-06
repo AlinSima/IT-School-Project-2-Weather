@@ -1,6 +1,6 @@
 # Project_ItSchool_WeatherAPI
 
-Project #1 from my JavaScript course @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
+Project #3 from  ITSchool course @ [ITSchool](https://www.itschool.ro/) @ [Razvan Cirlugea](https://github.com/razvancir96)
 
 # Demo
 This project is deployed on [Netlify](https://proiect-itschool-vremeait-alinsima.netlify.app/)
